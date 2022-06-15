@@ -41,10 +41,16 @@ Bachelor of Arts: Astronomy
 **Network Developer II**  
 2020.09 - Current  
 Spectrum Enterprise - Austin, TX  
-* Work with Ciena's Blue Planet Multi-Domain Service Orchestration tool to
-automate provisioning of managed network services.
-* System Administrator in charge of standing up and maintaining servers running
-hosted voice provisioning automation service (BroadSource EMU).
+* Work collaboratively with a team of network developers in an Agile framework 
+to provide continuous integration and delivery on the Ciena MDSO orchestration 
+platform.
+* Research and organize meetings with SMEs to plan and implement the automated 
+provisioning of various network devices and technologies.
+* Organize communication between inter-departmental teams within the company as 
+well as 3rd party vendors to onboard new production and lab environments for 
+various products.
+* Provide continuous system administration support for the BroadSource EMU 
+platform for automated UC provisioning.
 
 **Network Automation Engineer**  
 2018.12 - 2020.07  
