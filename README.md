@@ -1,9 +1,10 @@
 # Ace Nava
 
-## Contact
 matthewace@gmail.com  
 512.905.3742  
 5912 Clementine Ln. Austin, TX 78744
+
+---
 
 ## Summary
 
